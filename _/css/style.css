@@ -501,7 +501,7 @@ body.pace-done #wrapper {
 	margin-left: -39px;
 	width: 79px;
 	height: 130px;
-	background: url('http://www.secaibi.com/howbigisspace/_/img/elements/ship.png') no-repeat center center;
+	background: url('../img/elements/ship.png') no-repeat center center;
 	z-index: 999999;
 }
 
@@ -517,7 +517,7 @@ body.pace-done #wrapper {
 #radiation {
 	width: 56px;
 	height: 51px;
-	background: url('http://www.secaibi.com/howbigisspace/_/img/elements/radiation-warning.png');
+	background: url('../img/elements/radiation-warning.png');
 	float: left;
 	opacity: 0;
 	-webkit-animation: pulsate 2s ease-out;
@@ -600,7 +600,7 @@ body.pace-done #wrapper {
 	position: absolute;
 	top: 0px;
 	left: 0px;
-	background: url('http://www.secaibi.com/howbigisspace/_/img/elements/flame-sprite.png') no-repeat center center;
+	background: url('../img/elements/flame-sprite.png') no-repeat center center;
 	height: 98px;
 	width: 79px;
 }
@@ -655,7 +655,7 @@ body.pace-done #wrapper {
 }
 
 .hudicon {
-	background: url('http://www.secaibi.com/howbigisspace/_/img/elements/hudsprite.png') no-repeat;
+	background: url('../img/elements/hudsprite.png') no-repeat;
 	display: inline-block;
 	margin-right: 5px;
 	position: relative;
@@ -752,7 +752,7 @@ body.pace-done #wrapper {
 	top: 200px;
 	left: 50%;
 	margin-left: -250px;
-	background: url('http://www.secaibi.com/howbigisspace/_/img/elements/space-race-logo.png') no-repeat top center;
+	background: url('../img/elements/space-race-logo.png') no-repeat top center;
 	z-index: 999999;
 	height: 200px;
 	text-transform: uppercase;
@@ -1218,7 +1218,7 @@ h4,
 	opacity: 1;
 	position: absolute;
 	z-index: 999999;
-	background-image: url('http://www.secaibi.com/howbigisspace/_/img/elements/icon-sprite1.1.png');
+	background-image: url('../img/elements/icon-sprite1.1.png');
 	background-repeat: no-repeat;
 	background-size: 500px 1602px;
 }
@@ -1235,7 +1235,7 @@ h4,
 }
 
 #clouds-back {
-	background: url('http://www.secaibi.com/howbigisspace/_/img/elements/clouds/clouds-back.png') no-repeat bottom center;
+	background: url('../img/elements/clouds/clouds-back.png') no-repeat bottom center;
 	height: 180px;
 	top: 1143px;
 	margin-top: 100px;
@@ -1243,14 +1243,14 @@ h4,
 }
 
 #clouds-mid {
-	background: url('http://www.secaibi.com/howbigisspace/_/img/elements/clouds/clouds-mid.png') no-repeat bottom center;
+	background: url('../img/elements/clouds/clouds-mid.png') no-repeat bottom center;
 	height: 200px;
 	top: 1143px;
 	margin-top: 120px;
 }
 
 #clouds-fore {
-	background: url('http://www.secaibi.com/howbigisspace/_/img/elements/clouds/clouds-fore.png') no-repeat bottom center;
+	background: url('../img/elements/clouds/clouds-fore.png') no-repeat bottom center;
 	height: 180px;
 	top: 1143px;
 	margin-top: 140px;
@@ -1420,19 +1420,19 @@ h4,
 }
 
 #aurora-borealis .borealis-back {
-	background: url('http://www.secaibi.com/howbigisspace/_/img/elements/borealis/borealis-back.png') no-repeat top center;
+	background: url('../img/elements/borealis/borealis-back.png') no-repeat top center;
 	width: 976px;
 	height: 450px;
 }
 
 #aurora-borealis .borealis-mid {
-	background: url('http://www.secaibi.com/howbigisspace/_/img/elements/borealis/borealis-mid.png') no-repeat top center;
+	background: url('../img/elements/borealis/borealis-mid.png') no-repeat top center;
 	width: 976px;
 	height: 450px;
 }
 
 #aurora-borealis .borealis-fore {
-	background: url('http://www.secaibi.com/howbigisspace/_/img/elements/borealis/borealis-fore.png') no-repeat top center;
+	background: url('../img/elements/borealis/borealis-fore.png') no-repeat top center;
 	width: 976px;
 	height: 450px;
 }
@@ -1463,7 +1463,7 @@ h4,
 }
 
 #meteor-shower .meteor {
-	background: url('http://www.secaibi.com/howbigisspace/_/img/elements/meteor.png') no-repeat top left;
+	background: url('../img/elements/meteor.png') no-repeat top left;
 }
 
 #meteor-shower .meteor-1 {
@@ -2097,7 +2097,7 @@ h4,
 }
 
 #sun .icon {
-	background-image: url('http://www.secaibi.com/howbigisspace/_/img/elements/sun.png');
+	background-image: url('../img/elements/sun.png');
 	width: 757px;
 	height: 757px;
 	left: 50%;
@@ -2121,7 +2121,7 @@ h4,
 
 
 .belt-fore {
-	background: url('http://www.secaibi.com/howbigisspace/_/img/elements/asteroids/asteroid-fore.png');
+	background: url('../img/elements/asteroids/asteroid-fore.png');
 	height: 2993px;
 	width: 200%;
 	left: -100%;
@@ -2129,7 +2129,7 @@ h4,
 }
 
 .belt-back {
-	background: url('http://www.secaibi.com/howbigisspace/_/img/elements/asteroids/asteroid-back.png');
+	background: url('../img/elements/asteroids/asteroid-back.png');
 	height: 2993px;
 	width: 200%;
 	left: -100%;
