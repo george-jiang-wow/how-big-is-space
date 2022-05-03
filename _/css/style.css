@@ -621,7 +621,7 @@ body.pace-done #wrapper {
 }
 
 #stars {
-	background: url('../img/bg/stars.png') center center;
+	background: url('http://www.secaibi.com/howbigisspace/_/img/bg/stars.png') center center;
 	height: 108000px;
 	width: 100%;
 	position: absolute;
@@ -824,95 +824,95 @@ h4,
 }
 
 .section-one.section-container {
-	background-image: url('../img/bg/b1-tile.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b1-tile.jpg');
 }
 
 .section-one.section {
-	background-image: url('../img/bg/b1.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b1.jpg');
 }
 
 .section-two.section-container {
-	background-image: url('../img/bg/b2-tile.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b2-tile.jpg');
 }
 
 .section-two.section {
-	background-image: url('../img/bg/b2.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b2.jpg');
 }
 
 .section-three.section-container {
-	background-image: url('../img/bg/b3-tile.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b3-tile.jpg');
 }
 
 .section-three.section {
-	background-image: url('../img/bg/b3.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b3.jpg');
 }
 
 .section-four.section-container {
-	background-image: url('../img/bg/b4-tile.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b4-tile.jpg');
 }
 
 .section-four.section {
-	background-image: url('../img/bg/b4.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b4.jpg');
 }
 
 .section-five.section-container {
-	background-image: url('../img/bg/b5-tile.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b5-tile.jpg');
 }
 
 .section-five.section {
-	background-image: url('../img/bg/b5.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b5.jpg');
 }
 
 .section-six.section-container {
-	background-image: url('../img/bg/b6-tile.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b6-tile.jpg');
 }
 
 .section-six.section {
-	background-image: url('../img/bg/b6.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b6.jpg');
 }
 
 .section-seven.section-container {
-	background-image: url('../img/bg/b7-tile.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b7-tile.jpg');
 }
 
 .section-seven.section {
-	background-image: url('../img/bg/b7.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b7.jpg');
 }
 
 .section-eight.section-container {
-	background-image: url('../img/bg/b8-tile.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b8-tile.jpg');
 }
 
 .section-eight.section {
-	background-image: url('../img/bg/b8.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b8.jpg');
 }
 
 .section-nine.section-container {
-	background-image: url('../img/bg/b9-tile.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b9-tile.jpg');
 }
 
 .section-nine.section {
-	background-image: url('../img/bg/b9.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b9.jpg');
 }
 
 .section-ten.section-container {
-	background-image: url('../img/bg/b10-tile.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b10-tile.jpg');
 }
 
 .section-ten.section {
-	background-image: url('../img/bg/b10.jpg');
+	background-image: url('http://www.secaibi.com/howbigisspace/_/img/bg/b10.jpg');
 }
 
 .earth-container {
 	width: 100%;
-	background: url('../img/bg/earth-new-tile.png') repeat-x top center;
+	background: url('http://www.secaibi.com/howbigisspace/_/img/bg/earth-new-tile.png') repeat-x top center;
 	height: 690px;
 	position: absolute;
 	z-index: 99999;
 }
 
 .earth {
-	background: url('../img/bg/earth-new.png') no-repeat top center;
+	background: url('http://www.secaibi.com/howbigisspace/_/img/bg/earth-new.png') no-repeat top center;
 	height: 690px;
 }
 
@@ -943,7 +943,7 @@ h4,
 	bottom: 0px;
 	height: 775px;
 	width: 100%;
-	background: url('../img/bg/grain.png') repeat-x;
+	background: url('http://www.secaibi.com/howbigisspace/_/img/bg/grain.png') repeat-x;
 }
 
 .base-inner {
